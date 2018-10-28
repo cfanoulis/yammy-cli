@@ -1,0 +1,23 @@
+{
+  "name": "yammy",
+  "version": "0.0.1-dev",
+  "main": "index.js",
+  "repository": "https://github.com/cfanoulis/yammy-cli.git",
+  "author": "Charalampos Fanoulis <charalampos.fanoulis@gmail.com>",
+  "license": "GAGPLv3",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "grunt": "^1.0.3"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.0",
+    "sequelize": "^4.41.0"
+  }
+}
