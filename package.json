@@ -8,16 +8,17 @@
   "private": true,
   "devDependencies": {
     "eslint": "^5.8.0",
-    "eslint-config-google": "^0.11.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "2.14.0",
     "grunt": "^1.0.3"
   },
   "dependencies": {
     "@types/sequelize": "^4.27.29",
+    "bcrypt": "^3.0.2",
     "chalk": "^2.4.1",
     "dotenv": "^6.1.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "2.14.0",
     "inquirer": "^6.2.0",
-    "sequelize": "^4.41.0"
+    "sequelize": "^4.41.0",
+    "sqlite3": "^4.0.3"
   }
 }
