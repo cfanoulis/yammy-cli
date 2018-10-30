@@ -7,15 +7,20 @@
   "license": "GAGPLv3",
   "private": true,
   "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/cli-progress": "^1.8.0",
+    "@types/inquirer": "^0.0.43",
+    "@types/node": "^10.12.1",
+    "@types/sequelize": "^4.27.29",
     "eslint": "^5.8.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "2.14.0",
     "grunt": "^1.0.3"
   },
   "dependencies": {
-    "@types/sequelize": "^4.27.29",
     "bcrypt": "^3.0.2",
     "chalk": "^2.4.1",
+    "cli-progress": "^2.1.0",
     "dotenv": "^6.1.0",
     "inquirer": "^6.2.0",
     "sequelize": "^4.41.0",
