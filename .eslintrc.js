@@ -3,6 +3,7 @@ module.exports = {
     rules: {
         "quotes": ["error", "double", { "allowTemplateLiterals": true }],
         "linebreak-style": "off",
-        "consistent-return": "off"
+        "consistent-return": "off",
+        "no-console": "off",
     }
 };
