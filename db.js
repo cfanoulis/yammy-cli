@@ -24,4 +24,7 @@ module.exports = (sequelize, db) => {
       website: sequelize.STRING(128),
     }),
   });
+  sequelize.sync().catch((err) => {
+    throw err
+  });
 };
