@@ -1,2 +1,3 @@
-# yammy-cli
-Need a munch? Find a restauraunt using Yammy
+# The development of yammy has been moved to [this new, shiny repo](https://github.com/cfanoulis/yammy).
+
+This repo will be sunsetted for archival purposes
